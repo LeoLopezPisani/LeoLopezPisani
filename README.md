@@ -1,15 +1,14 @@
+# Hola!
 
-Hola! 
+## Soy Leonel López Pisani, pero todos me dicen Leo.
+## Soy docente y estoy iniciando mi carrera en el desarrollo de software.
 
-Soy Leonel López Pisani, pero todos me dicen Leo.
-Soy docente y estoy iniciando mi carrera en el desarrollo de software.
+## Tengo conocimientos de HTML, CSS, Javascript, MySQL, Python y Ruby. Actualmente sigo estudiando JS y me estoy capacitando principalmente en Front-End pero apunto a saber cada día un poco más.
 
-Tengo conocimientos de HTML, CSS, Javascript, MySQL, Python y Ruby. Actualmente sigo estudiando JS y me estoy capacitando principalmente en Front-End pero apunto a saber cada día un poco más.
-
-Este github es prueba de ello. Todavía no hay mucho para ver, pero cada vez hay más!
+## Este github es prueba de ello. Todavía no hay mucho para ver, pero cada vez hay más!
 
 
-Una pequeña historia de mí
+# Una pequeña historia de mí
 
 En mi último año de colegio vino una psicopedagoga a hacernos un test vocacional a los alumnos. Ante cada pregunta que me hacía el sistema que evaluaba los intereses y las capacidades de cada alumno me pasaba lo mismo.
 
